@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Steve Hotcodes</h1>
+<h1 align="center">Hi 👋, I'm Stephen Ondieki</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Angular Ecommerce Frontend**
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **NodeJS, Microsoft SQL Server, TypeScript**
 
-- 📫 How to reach me **stevehotcodes@gmail.com**
+- 📫 How to reach me **ondiekistephen00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
