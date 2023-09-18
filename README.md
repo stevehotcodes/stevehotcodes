@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Stephen Ondieki</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Sequelize**
+- 🔭 I’m currently working on **ReactNewBie**
 
-- 🌱 I’m currently learning **NodeJS,MongoDB**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **NodeJS, Microsoft SQL Server, TypeScript**
 
