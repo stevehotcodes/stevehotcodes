@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Stephen Ondieki</h1>
-<h3 align="center">A passionate Fullstack developer from Kenya</h3>
+<h3 align="center">A passionate Fullstack developer and Quality Analyst and Engineer from Kenya</h3>
 
 - 🔭 I’m currently working on **ReactNewBie**
 
