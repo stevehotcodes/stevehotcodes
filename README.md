@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **always learning**
 
-- 💬 Ask me about **NodeJS, Microsoft SQL Server, TypeScript, Jest , Cypress , Vitest, supertest, Angular, React**
+- 💬 Ask me about **NodeJS, Microsoft SQL Server, TypeScript, Jest , Cypress , Vitest, supertest, Angular, React, Grafana K6**
 
 - 📫 How to reach me **ondiekistephen00@gmail.com**
 
