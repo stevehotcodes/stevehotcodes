@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevehotcodes&theme=vue-dark&hide_border=true" alt="stevehotcodes's Streak">
 <img src="https://github-readme-stats.vercel.app/api?username=stevehotcodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="stevehotcodes's Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevehotcodes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="stevehotcodes's Top Languages">
 
